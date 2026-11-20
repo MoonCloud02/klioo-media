@@ -1,6 +1,6 @@
 # Mariposa LED con movimiento · Estrategia y guiones (Klioo)
 
-- Dropi: 2307667 (variaciones de 20 cm) · Precio Klioo: $169.900 · Envío gratis · Pago contra entrega
+- Dropi: 2307667 (variaciones de 20 cm) · Precio Klioo (desde 20-nov-2026): 1 × $139.900 · 2 × $229.900 · 3 × $299.900 · 4 o más a $99.900 c/u · Envío gratis · Pago contra entrega
 - Lanzamiento: 2026-11-20 · Modo RECREAR (producto con anuncios validados en Colombia)
 - Luces disponibles en 20 cm con stock: cálida, día (blanca), multicolor, roja y azul
 
@@ -108,4 +108,10 @@ Paleta: azul noche #10162B, dorado LED #F2C14E, crema #FAF5EE, verde pino #1F4D3
 - A: "🦋 No son simples luces de Navidad: son mariposas que se iluminan y mueven sus alas solas…"
 - B: "🦋 Apaga la luz de la sala y mira lo que pasa en tu árbol…"
 - C: "🦋 Parece un adorno normal… hasta que la prendes."
-Cada uno sigue con 1–2 líneas de mecanismo, viñetas ✅ (luz cálida, blanca, multicolor, roja o azul · mide 20 cm · Envío GRATIS a toda Colombia · Pagas cuando la recibes) y cierre "👇 $169.900. Toca el botón y pídela por WhatsApp".
+Cada uno sigue con 1–2 líneas de mecanismo, viñetas ✅ (luz cálida, blanca, multicolor, roja o azul · mide 20 cm · Envío GRATIS a toda Colombia · Pagas cuando la recibes) y cierre "👇 1 por $139.900 · 2 por $229.900 · 3 por $299.900. Toca el botón y pídela por WhatsApp" (antes $169.900; se bajó el 20-nov-2026 porque 9 de 31 chats objetaron el precio y varios querían 2 o más).
+
+## Cambio de precio (20-nov-2026)
+- Diagnóstico de 31 chats sin venta: 16 se fueron después del saludo con $169.900, 9 objetaron el precio ("¿una sola vale eso?", "¿es por unidad?") y varios pedían 2 o más (el total en un solo precio los espantó).
+- Nuevo esquema por cantidad: 1 × $139.900 · 2 × $229.900 · 3 × $299.900 · 4 o más a $99.900 c/u.
+- Videos con la tarjeta de precios por cantidad: mariposa_led_vA/vB/vC_escalones.mp4 y mariposa_led_vA2_fiel_escalones.mp4.
+- El bot (slot 18) ya tiene la tabla y la regla "nunca multipliques $139.900 por la cantidad".
